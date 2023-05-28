@@ -12,7 +12,7 @@
     background: rgb(233, 166, 127); 
     text-align: center;
     padding: 10px;
-    border: 5px solid navy;
+    border: 7px solid navy;
     margin: 5px;
   }
   
@@ -25,6 +25,11 @@
     border: 1px solid black;
     border-radius: 5px;
     font-size: 40px;
+  }
+
+  .monday th, .monday td {
+   padding: 15px;
+   border: 4px solid black; 
   }
   .text{
     text-align: left;
