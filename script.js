@@ -42,3 +42,20 @@ function toggleContent() {
       content.style.display = "none";
     }
   }
+
+  function toggleContent5() {
+    var content = document.getElementById("tableOfContents5");
+    if (content.style.display === "none") {
+      content.style.display = "block";
+    } else {
+      content.style.display = "none";
+    }
+  }
+  function toggleContent6() {
+    var content = document.getElementById("tableOfContents6");
+    if (content.style.display === "none") {
+      content.style.display = "block";
+    } else {
+      content.style.display = "none";
+    }
+  }
